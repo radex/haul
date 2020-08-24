@@ -108,7 +108,7 @@ Haul uses a completely different architecture from React Native packager, which 
 
 * Delta Bundles (RN 0.52+) have minimal support
 * Existing `react-native` commands
-* No support for Hot Module Replacement
+* No support for [Fast Refresh](https://github.com/callstack/haul/issues/583) / Hot Module Replacement
 
 The following features are **unlikely to be supported** in the future:
 
